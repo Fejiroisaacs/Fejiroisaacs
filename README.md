@@ -23,6 +23,6 @@ I'm a dual-degree Computer Science student — earning my B.S. at Haverford Coll
 ![](https://github-profile-trophy.vercel.app/?username=fejiroisaacs&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=fejiroisaacs&icon=3&color=3)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=fejiroisaacs&color=brightgreen)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
