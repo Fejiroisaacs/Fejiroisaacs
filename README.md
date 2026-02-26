@@ -1,7 +1,7 @@
 # About Me:
 I'm a dual-degree Computer Science student — earning my B.S. at Haverford College (Applied Mathematics minor) and my M.S. in Computer and Information Science at the University of Pennsylvania — with a focus on full-stack development, systems programming, and AI fairness research.
 
-I’m currently working on [Jiro](https://jiro-app-3e88c.web.app/dashboard) [Haverford IFL](https://quickest-doralyn-haverford-167803e3.koyeb.app/) and [The Bridge](https://bridge.haverford.edu/)<br>
+I’m currently working on [Jiro](https://jiro-app-3e88c.web.app/dashboard), [Haverford IFL](https://quickest-doralyn-haverford-167803e3.koyeb.app/), and [The Bridge](https://bridge.haverford.edu/)<br>
 Check out my [personal portfolio](https://fejiroisaacs.github.io/Personal-Portfolio/) to see featured projects, experience highlights, and more about my work.<br>
 I’m currently learning about Web-Sockets :)<br>
 
