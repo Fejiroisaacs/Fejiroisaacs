@@ -3,9 +3,8 @@
 ## About Me
 My name is Fejiro (fay-JEE-roh) Anigboro (ah-neeg-BOH-roh). I'm a Masters student in Computer and Information Science at the University of Pennsylvania.
 
-- I'm currently working on [Jiro](https://jiro-app-3e88c.web.app/)
+- I'm currently working on [Jiro](https://jiro-app-3e88c.web.app/) and [Research in Computational Biology](https://github.com/Fejiroisaacs/Mathieson_Research_Upenn)
 - Check out my [personal portfolio](https://fejiroisaacs.github.io/Personal-Portfolio/) to see featured projects, experience highlights, and more about my work
-- I'm currently learning about WebSockets :)
 
 <!--
 👯 I'm looking to collaborate on<br>
